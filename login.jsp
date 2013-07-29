@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Login Page for the Bookshop pppp</title>
+<title>Login Page for the Bookshop</title>
 <body bgcolor="white">
 <form method="POST" action='<%= response.encodeURL("j_security_check") %>' >
   <table border="0" cellspacing="5" align="center">
